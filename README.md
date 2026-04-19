@@ -301,5 +301,3 @@ if __name__ == "__main__":
 - **多模态支持** — API / CLI / Web 三种交互方式
 - **智能体编排** — LangGraph 提供强大的 ReAct 模式推理能力
 - **实时工具调用** — 动态工具选择，实时响应用户需求
-
-<p align="center">Made with ❤️ by the Zhixing Assistant Team</p>

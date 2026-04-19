@@ -1,4 +1,4 @@
-# 智行助手 (Zhixing Assistant)
+# 智行助手
 
 > 基于 MCP 协议与 LangGraph 构建的 AI 多智能体系统，支持天气查询、地图服务、时间查询、文件操作等功能。
 
